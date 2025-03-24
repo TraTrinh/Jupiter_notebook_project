@@ -64,7 +64,9 @@ The top 3 product sets sold together are iPhone, Lightning Charging Cable — 88
 
 ### 5. What product sold the most? Why do you think it sold the most?
 AAA Batteries (4-pack) and AA Batteries (4-pack) show the highest quantities sold, despite having very low prices, indicating they are high-turnover essentials.
+
 Apple AirPods and Wired Headphones also sold in large numbers, suggesting strong consumer demand for affordable audio accessories.
+
 Premium products like the MacBook Pro and ThinkPad Laptop have very high prices, but relatively low sales volume, which is expected for big-ticket items.
 A few products like the Lightning Charging Cable and USB-C Cable show a balanced profile — strong quantity and mid-range price — making them likely drivers of both volume and revenue.
 
